@@ -1,0 +1,23 @@
+{
+  "name": "uniSwap-Fork",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/AimenHallou/uniSwap-Fork.git"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/AimenHallou/uniSwap-Fork/issues"
+  },
+  "homepage": "https://github.com/AimenHallou/uniSwap-Fork#readme",
+  "dependencies": {
+    "@openzeppelin/contracts": "^2.5.1"
+  }
+}
